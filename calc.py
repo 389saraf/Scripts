@@ -1,7 +1,7 @@
 def(x,y):
 pass
 def subtract(x-y):
-return x-y
+return x-z
 def multiply(x,y):
 return x*y
 def divide(x,y):
